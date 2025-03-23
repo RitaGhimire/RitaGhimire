@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hello there! I'm Rita Ghimire
 
-<!--
-**RitaGhimire/RitaGhimire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a junior majoring in **Computer Science** with a **Mathematics minor** at **Northern Kentucky University (NKU)**, maintaining a 4.00 GPA.
 
-Here are some ideas to get you started:
+💻 Passionate about software development, building impactful 💡 projects, and diving into the world of data analytics 📊. 
+I love the critical and analytical thinking 🧠 that powers the field of computer science — always excited to create innovative and meaningful solutions 🚀.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+Feel free to reach out or check out my projects!
+- 🔗 [Portfolio](https://ritaghimire.com/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ritaghimire)  
+- ✉️ [Email](ghimiresafalta87@gmail.com)
+
+  ![Rita's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitaGhimire&show_icons=true&theme=radical)
+  
