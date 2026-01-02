@@ -1,6 +1,6 @@
 ## 👋 Hello there! I'm Rita Ghimire
 
-🎓 I'm a junior majoring in **Computer Science** with a **Mathematics minor** at **Northern Kentucky University (NKU)**, maintaining a 4.00 GPA.
+🎓 I'm a senior majoring in **Computer Science** with a **Mathematics minor** at **Northern Kentucky University (NKU)**, maintaining a 4.00 GPA.
 
 💻 Passionate about software development, building impactful 💡 projects, and diving into the world of data analytics 📊. 
 I love the critical and analytical thinking 🧠 that powers the field of computer science — always excited to create innovative and meaningful solutions 🚀.
